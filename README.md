@@ -12,7 +12,7 @@
 <a id='intro'></a>
 ## Introduction :
 
-Ce dépôt contient les projets sur lesquels j'ai eu à travailler dans le cadre du Nanodegree ALX Data Analysis que j'ai suivi pendant trois mois environ sur Udacity. Ces derniers ont été soumis et approuvés.
+Ce dépôt contient les projets sur lesquels j'ai eu à travailler dans le cadre du Nanodegree ALX Data Analysis que j'ai suivi pendant trois mois environ sur Udacity. Ces derniers ont été soumis et approuvés. Il contient d'autres projets également sur lesquels j'ai pu travailler par la suite.
 
 <a id='noshow'></a>
 ## Projet 1: No-Show Appointments 2016
